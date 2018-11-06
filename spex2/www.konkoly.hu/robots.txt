@@ -1,0 +1,18 @@
+# robots.txt for Konkoly Observatory - http://www.konkoly.hu
+
+User-agent: *
+Disallow: /
+
+User-agent: Auriga
+Disallow: /pub
+Disallow: /IBVS
+Disallow: /ibvs
+Disallow: /cgi-bin
+Disallow: /Mitteilungen
+
+User-agent: Googlebot
+Disallow: /pub
+Disallow: /IBVS
+Disallow: /ibvs
+Disallow: /cgi-bin
+Disallow: /Mitteilungen
