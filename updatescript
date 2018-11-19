@@ -1,0 +1,3 @@
+ while true; do; sleep 10; 
+cp ~/konkoly/automaticaperture/sourcefits/*NUM* ~/zabop.github.io/; rm css5.html; (cat intro; for each in $( ls *NUM* ); do echo '<img src="'$each'">'; done; cat outro) >> css5.html; git add *NUM*; git add css5.html; git commit -m "update"; git push origin master; done
+
