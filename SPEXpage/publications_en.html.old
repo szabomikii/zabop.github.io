@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Your description goes here" />
+	<meta name="keywords" content="your,keywords,goes,here" />
+	<meta name="author" content="Your Name" />
+	<link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" href="origo.css" title="Origo" media="all" />
+	<title>SPEX - Publications</title>
+</head>
+
+<body class="light blue smaller freestyle01">
+<div id="layout">
+
+	<div class="row smaller">
+		<div class="col c5 smaller">
+			<h1><a href="index.html">PUBLICATIONS</a></h1>
+		</div>
+
+		<div class="col c7 aligncenter">
+			<p class="slogan">Stellar Pulsation, space photometry, exoplanets (SPEX)</p>
+		</div>
+
+		<div class="col c12 alignright">
+			<p><a href="hu/publications_hu.html"><img src="images/Hungarian_flag.png" align="right" width="30" height="15"></img></a>
+			   <a href="publications_en.html"><img src="images/English_flag.png" align="right" width="30" height="15"></img></a></p>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col c12 aligncenter">
+			<img src="images/test_merge9.jpg" width="960" height="240" alt="" />
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col c2 alignleft">
+			<ul class="menu">
+				<li><a href="index.html">About SPEX</a></li>
+				<li><a href="kepler_en.html">About Kepler</a></li>
+				<li><a href="members_en.html">SPEX members</a></li>
+				<li><a href="research_en.html">Research</a></li>
+				<li><a href="grants_en.html">Grants</a></li>
+				<li><a class="current" href="publications_en.html">Publications</a></li>
+<!--					<ul class="subpages">
+						<li><a href="#refereed">Refereed journals</a></li>
+						<li><a href="#proceedings">Conference proceedings</a></li>
+						<li><a href="#popular">Popular science</a></li>
+					</ul>
+				</li>-->
+				<li><a href="data_en.html">Downloadable light curves</a></li>
+				<li><a href="media_en.html">In the media</a></li>
+				<li><a href="students_en.html">For students</a></li>
+				<li><a href="conferences_en.html">Conferences</a></li>
+				<li><a href="contact_en.html">Contact</a></li>
+				<li><a href="links_en.html">Links</a></li>
+			</ul>
+		</div>
+
+		<div class="col c10">
+			<p><a href="publications_en.html">Papers in refereed journals</a>: 68<br>
+			<a href="publications-proceedings_en.html">Conference proceedings and miscellaneous</a>: 44<br>
+			<a href="publications-popular_en.html">Popular science articles / news in Hungarian</a>: 129</p>
+			<br>
+
+			<h2>Papers in refereed journals</h2>
+			<br>
+			<ol>
+				<li><p><b>68.</b> A. Pál, Cs. Kiss, T. G. Müller, <b>L. Molnár</b>, <b>R. Szabó</b>, <b>Gy. M. Szabó</b>, K. Sárneczky, <b>L. L. Kiss</b>:<br><i>Large size and slow rotation of the trans-Neptunian object (225088) 2007 OR10 discovered from Herschel and K2 observations</i><br>AJ, 151, 117, 2016</p></li>
+				<li><p><b>67.</b> T. S. Boyajian, D. M. LaCourse, S. A. Rappaport, ..., <b>B. Cs&#225k</b> ..., <b>J. Kov&#225cs</b>, ..., <b>Gy. M., Szab&#243, R. Szab&#243</b> et al.: <br><i><a href="http://arxiv.org/abs/1509.03622" target="_blank"> Planet Hunters X. KIC 8462852 - Where's the flux?</a></i><br>MNRAS, 457, 3988, 2016</p></li>
+				<li><p><b>66.</b> Cs. Kiss, A. Pál, A. I. Farkas-Takács, <b>Gy. M. Szabó</b>, <b>R. Szabó</b>, <b>L. L. Kiss</b>, <b>L. Molnár</b>, et al.:<br><i><a href="http://arxiv.org/abs/1601.02395">Nereid from space: Rotation, size and shape analysis from Kepler/K2, Herschel and Spitzer observations</a></i><br>MNRAS, 457, 2908, 2016</p></li>
+				<li><p><b>65.</b> P. De Cat, J. N. Fu, A. B. Ren, X. H. Yang, ..., <b>L. Kiss,</b> ..., <b>R. Szab&#243</b> et al.:<br><i><a href="http://arxiv.org/abs/1508.06391" target="_blank"> LAMOST observations in the Kepler field. I. Database of low-resolution spectra</a></i><br>ApJS, 220, 19, 2015</p></li>
+				<li><p><b>64.</b> </b> <b>L. Moln&#225r,</b> A. P&#225l,  <b>E. Plachy,</b> V. Ripepi, M. I. Moretti, <b>R. Szab&#243, L. Kiss</b>:<br><i><a href="http://arxiv.org/abs/1508.05587"> Pushing the limits, episode 2: K2 observations of extragalactic RR Lyrae stars in the dwarf galaxy Leo IV</i></a><br>ApJ, 812, 2, 2015</p></li>
+				<li><p><b>63.</b> <b>J. M. Benk&#337, R. Szab&#243,</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2015ApJ...809L..19B"> The Blazhko effect and additional excited modes in RR Lyrae stars</a></i><br>ApJL, 809, L19, 2015</p></li>
+				<li><p><b>62.</b> <b>L. Moln&#225r, R. Szab&#243,</b> P. Moskalik, J. Nemec, ..., <b>E. Plachy</b>, ..., <b>Z. Koll&#225th</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2015MNRAS.452.4283M"> An RR Lyrae family portrait: 33 stars observed in Pisces with K2-E2</a></i><br>MNRAS, 452, 4283, 2015</p></li>
+				<li><p><b>61.</b> A. P&#225l, <b>R. Szab&#243, Gy. M. Szab&#243, L. L. Kiss, L. Moln&#225r, </b>K. S&#225rneczky, Cs. Kiss:<br><i><a href="http://adsabs.harvard.edu/abs/2015ApJ...804L..45P"> Pushing the limits: K2 observations of the trans-neptunian objects 2002 GV31 and (278361) 2007 JJ43</a></i><br>ApJL, 804, L45, 2015</p></li>
+				<li><p><b>60.</b> <b>R. Szab&#243</b>,  K. S&#225rneczky, <b>Gy. M. Szab&#243</b>, A. P&#225l, Cs. P. Kiss, B. Cs&#225k, L. Ill&#233s, G. R&#225cz, <b>L. L. Kiss</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2015AJ....149..112S"> Main-Belt Asteroids in the K2 Engineering Field of View</a></i><br>AJ, 149, 112, 2015</p></li>
+				<li><p><b>59.</b> P. Moskalik, R. Smolec, K. Kolenberg,  <b> L. Moln&#225r</b>, D. W. Kurtz, <b>R. Szab&#243, J.M. Benk&#337</b> et al.:</a></i><br><i><a href="http://adsabs.harvard.edu/abs/2015MNRAS.447.2348M">Kepler photometry of RRc stars: peculiar double-mode pulsations and period doubling</a></i><br>MNRAS, 447, 2348, 2015</p></li>
+				<li><p><b>58. </b>N. R. Evans, <b> R. Szab&#243, A. Derekas, L. Szabados</b>, C. Comeron, et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2015MNRAS.446.4008E">Observations of Cepheids with the MOST satellite: Contrast between Pulsation Modes</a></i><br>MNRAS, 446, 4008, 2015</p></li>
+				<li><p><b>57.</b><b> E. Plachy, J. M. Benk&#337, Z. Koll&#225th, L. Moln&#225r, R. Szab&#243</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2014MNRAS.445.2810P">Nonlinear dynamical analysis of the Blazhko effect with the Kepler space telescope: the case of V783 Cyg</a></i><br>MNRAS, 445, 2810, 2014</p></li>
+				<li><p><b>56.</b> <b>R. Szab&#243, J. M. Benk&#337</b>, M. Papar&#243, E. Chapellier, E. Poretti et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2014A%26A...570A.100S">Revisiting CoRoT RR Lyrae stars: detection of period doubling and temporal variation of additional frequencies</a></i><br>A&A, 570, A100, 2014</p></li>
+				<li><p><b>55.</b> <b>T. Borkovits, A. Derekas,</b> J. Fuller, <b>Gy. M. Szab&#243</b>, ..., <b>B Cs&#225k</b>, ..., <b>J. Kov&#225cs, R. Szab&#243</b>, ..., <b>B. I. Barna</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2014MNRAS.443.3068B">HD 183648: a Kepler eclipsing binary with anomalous ellipsoidal variations and a pulsating component</a></i><br>MNRAS, 443, 3068, 2014</p></li>
+				<li><p><b>54.</b><b> L. Szabados,</b> B. Cseh, <b>J. Kov&#225cs,B. Cs&#225k, </b>Á. D&#243zsa, <b>Gy. M. Szab&#243, A. E. Simon, T. Borkovits, L. L. Kiss, </b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2014MNRAS.442.3155S">Discovery of the spectroscopic binary nature of the classical Cepheids FN Aql and V1344 Aql</a></i><br>MNRAS, 442, 3155, 2014</p></li>
+				<li><p><b>53. </b><b> L. Moln&#225r, L. Szabados</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2014MNRAS.442.3222M">V473 Lyrae, a unique second-overtone Cepheid with two modulation cycles</a></i><br>MNRAS, 442, 3222, 2014</p></li>
+				<li><p><b>52.</b> D. Stelllo, D. L. Compton, T. Bedding, ..., <b>L. Kiss, </b>et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2014ApJ...788L..10S">Non-radial Oscillations in M-giant Semi-regular Variables: Stellar Models and Kepler Observations</a></i><br>ApJ 788, 10, 2014</p></li>
+				<li><p><b>51.</b> T. S. Metcalfe, O. L. Creevey, G. Dogan, ...,  <b> A. Derekas, </b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2014ApJS..214...27M">Properties of 42 Solar-type Kepler Targets from the Asteroseismic Modeling Portal</a></i><br>ApJS, 214, 31, 2014</p></li>
+				<li><p><b>50.</b>  <b> J. M. Benk&#337, E. Plachy, R. Szab&#243, L. Moln&#225r, Z. Koll&#225th</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2014ApJS..213...31B">Long Time-Scale Behaviour of the Blazhko Effect from rectified Kepler Data</a></i><br>ApJS, 213, 31, 2014, download data from <a href="data_en.html">here</a></p></li>
+				<li><p><b>49.</b> K. Vida, K. Ol&#225h, <b>R. Szab&#243</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2014MNRAS.441.2744V">Looking for activity cycles in late-type Kepler stars using time-frequency analysis</a></i><br>MNRAS, 441, 2174, 2014</p></li>
+				<li><p><b>48.</b> A. Shporer, G. O'Rouke, H. A. Knutson, <b>Gy. M. Szab&#243</b> et al:<br><i><a href="http://iopscience.iop.org/0004-637X/788/1/92">Atmospheric characterization of the hot Jupiter Kepler-13Ab</a></i><br>ApJ, 788, 92, 2014</p></li>
+				<li><p><b>47.</b> J. F. Le Borgne, E. Poretti, A. Klotz, ..., <b>R. Szab&#243</b> et al:<br><i><a href="http://adsabs.harvard.edu/abs/2014MNRAS.441.1435L">The historical vanishing of the Blazhko effect of RR Lyr from GEOS and Kepler surveys</a></i><br>MNRAS, 441, 1435, 2014</p></li>
+				<li><p><b>46.</b> H. Rauer, C. Catala, C. Aerts, ..., <b>R. Szab&#243</b>, ...,<b>Gy. M. Szab&#243</b> et al:<br><i><a href="http://arxiv.org/abs/1310.0696">The PLATO 2.0 Mission</a></i><br>Experimental Astronomy, 38, 249, 2014, arXiv:1310.0696</p></li>
+				<li><p><b>45.</b> P. G. Beck, K. Hambleton, J. Vos, ..., <b>A. Derekas</b> et al:<br><i><a href="http://adsabs.harvard.edu/abs/2014A%26A...564A..36B">Pulsating red giant stars in eccentric binary systems discovered from Kepler space-based photometry. A sample study and the analysis of KIC 5006817</a></i><br>A&A, 564, 36, 2014</p></li>
+				<li><p><b>44.</b> <b>R. Szab&#243</b>, &#381. Ivezi&#263,<b>L. L. Kiss, Z. Koll&#225th,</b> L. Jones, B. Sesar et al.:<br><i><a href="http://iopscience.iop.org/0004-637X/780/1/92/">High-precision 2MASS JHKs light curves and other data for RR Lyrae star SDSS J015450+001501: strong constraints for non-linear pulsation models</a></i><br>ApJ, 780, 92, 2014<br>download <a href="SDSSJ015450+001501_LINEARlightcurve.dat">LINEAR data</a>, <a href="SDSSJ015450+001501_CSSlightcurve.dat">CSS data</a>, <a href="SDSSJ015450+001501_SDSSlightcurves.dat">SDSS data</a>, <a href="SDSSJ015450+001501_2MASSlightcurves.dat">2MASS data</a>, <a href="SDSSJ015450+001501_WISElightcurves.dat">WISE data</a>, <a href="SED2.dat">SED data</a></p></li>
+				<li><p><b>43.</b> <b>Gy.M. Szab&#243</b>, A. E. Simon,<b> L. L. Kiss</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2014MNRAS.437.1045S">Mapping a star with transits: orbit precession effects in the Kepler-13 system </a></i><br>MNRAS, 437, 1045, 2014</p></li>
+				<li><p><b>42.</b>  E. B&#225nyai, <b>L. L. Kiss</b>, T. R. Bedding,<b> J. Benk&#337</b>, ..., <b>A. Derekas</b>,..., D. Stello, <b>Gy.M. Szab&#243</b>,..., <b>R. Szab&#243</b> et al:<br><i><a href="http://adsabs.harvard.edu/abs/2013MNRAS.436.1576B">Variability of M giant stars based on Kepler photometry: general characteristics</a></i><br>MNRAS, 436, 1576, 2013</p></li>
+				<li><p><b>41.</b> <b> E. Plachy, Z. Koll&#225th, L. Moln&#225r</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2013MNRAS.433.3590P">Low-dimensional chaos in RR Lyrae models</a></i><br>MNRAS, 433, 3590, 2013</p></li>
+				<li><p><b>40.</b>  S. J. Murphy, A. Pigulski, D.W. Kurtz, ..., <b>R. Szab&#243</b> et al:<br><i><a href="http://adsabs.harvard.edu/abs/2013MNRAS.432.2284M">An asteroseismic case-study of KIC 11754974: a high-amplitude SX Phe star in the Kepler field</a></i><br> MNRAS, 432, 2284, 2013</p></li>
+				<li><p><b>39.</b> <b>R. Szab&#243, Gy. M. Szab&#243, G. D&#225lya</b>, ..., <b>L. L. Kiss</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2013A%26A...553A..17S">Multiple planets or exomoons in Kepler hot Jupiter systems with transit timing variations?</a></i><br>A&A, 553, A17, 2013</p></li>
+				<li><p><b>38.</b> P. Lampens, A. Tkachenko, H. Lehmann, ..., <b>A. Derekas. </b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2013A%26A...549A.104L">Low-frequency variations of unknown origin in the Kepler delta Scuti star KIC 5988140 = HD 188774</a></i><br>A&A, 549, A104, 2013</p></li>
+				<li><p><b>37.</b> J. M., Nemec, J. G. Cohen, V. Ripepi, <b>A. Derekas. </b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2013ApJ...773..181N">Metal Abundances, Radial Velocities, and Other Physical Characteristics for the RR Lyrae Stars in The Kepler Field</a></i><br>ApJ, 773, 181, 2013</p></li>
+				<li><p><b>36.</b> S. Rappaport, K. Deck, A. Levine, <b>T. Borkovits</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2013ApJ...768...33R">Triple-Star Candidates Among the Kepler Binaries</a></i><br>ApJ, 768, 33, 2013</p></li>
+				<li><p><b>35.</b> J. Fuller, <b>A. Derekas, T. Borkovits</b>, ..., <b>L. Kiss</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2013MNRAS.429.2425F">Tidally Induced Oscillations and Orbital Decay in Compact Triple-Star Systems </a></i><br>MNRAS, 429, 2425, 2013</p></li>
+				<li><p><b>34.</b> <b>T. Borkovits, A. Derekas, L. Kiss</b>, ...,  <b>I. B. B&#237r&#243, R. Szab&#243</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2013MNRAS.428.1656B">Dynamical masses, absolute radii and 3D orbits of the triply eclipsing star HD 181068 from Kepler photometry</a></i><br>MNRAS, 428, 1656, 2013</p></li>
+				<li><p><b>33.</b><b> L. Moln&#225r, Z. Koll&#225th, R. Szab&#243</b>, S. Bryson et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2012ApJ...757L..13M">Nonlinear asteroseismology of RR Lyrae</a></i><br>ApJL, 757, L13, 2012</p></li>
+				<li><p><b>32.</b><b> A. Derekas, Gy. M. Szab&#243,</b> L. Berdnikov, <b>R. Szab&#243</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2012MNRAS.425.1312D">Period and light curve fluctuations of the Kepler Cepheid V1154 Cyg</a></i><br>MNRAS, 425, 1312, 2012</p></li>
+				<li><p><b>31.</b> L. A. Balona, M. Breger, G. Catanzaro, ..., <b>R. Szab&#243</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2012MNRAS.424.1187B">Unusual high frequencies in the Kepler delta Scuti star KIC 4840675</a></i><br>MNRAS, 424, 1187, 2012</p></li>
+				<li><p><b>30.</b>  E. Guggenberger, K. Kolenberg, J. Nemec, ..., <b>J. M. Benk&#337</b>, ..., <b>R. Szab&#243</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2012MNRAS.424..649G">The complex case of V445 Lyr: two Blazhko modulations, a non-radial mode, possible triple mode RR Lyrae pulsation, and more</a></i><br>MNRAS, 424, 649, 2012</p></li>
+				<li><p><b>29.</b> <b> L. Moln&#225r, Z. Koll&#225th, R. Szab&#243</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2012MNRAS.424...31M">Can turbulent convective variations drive the Blazhko cycle? Dynamical investigation of the Stothers idea</a></i><br>MNRAS, 424, 31, 2012</p></li>
+				<li><p><b>28.</b> <b>Gy. M. Szab&#243,</b> A. P&#225l, <b>A. Derekas,</b> A. E. Simon, T. Szalai,  <b>L. L. Kiss</b>: <br><i><a href="http://adsabs.harvard.edu/abs/2012MNRAS.421L.122S">Spin-orbit resonance, transit duration variation and possible secular perturbations in KOI-13</a></i><br>MNRAS, 421, 122, 2012</p></li>
+				<li><p><b>27.</b> A. Miglio, K. Brogaard, D. Stello, ..., <b>R. Szab&#243</b>  et al.: <br><i><a href="http://adsabs.harvard.edu/abs/2012MNRAS.419.2077M">Asteroseismology of old open clusters with Kepler: direct estimate of the integrated RGB mass loss in NGC 6791 and NGC 6819</a></i><br>MNRAS, 419, 2077, 2012</p></li>
+				<li><p><b>26.</b> K. Uytterhoeven, A. Moya, A. Grigahc&egrave;ne, ..., <b>R. Szab&#243</b>,..., <b>L. L. Kiss</b> et al.: <br><i><a href="http://adsabs.harvard.edu/abs/2011A%26A...534A.125U">The Kepler characterization of the variability amongst A- and F-type stars I. General analysis</a></i><br>A&A, 534, A125, 2011</p></li>
+				<li><p><b>25.</b> J. M. Nemec, R. Smolec, <b>J. M. Benk&#337</b>, et al. <b> (R. Szab&#243, L. L. Kiss, A. Derekas, J. Nuspl)</b>: <br><i><a href="http://adsabs.harvard.edu/abs/2011MNRAS.417.1022N">Fourier analysis of non-Blazhko ab-type RR Lyr stars observed with the Kepler space telescope</a></i><br>MNRAS, 417, 1022, 2011</p></li>
+				<li><p><b>24. J. M. Benk&#337, R. Szab&#243</b>, M. Papar&#243: <br><i><a href="http://adsabs.harvard.edu/abs/2011MNRAS.417..974B">Blazhko RR Lyrae light curves as modulated signals</a></i><br>MNRAS, 417, 974, 2011</p></li>
+				<li><p><b>23.</b> D. Stello, S. Meibom, R. L. Gilliland, ..., <b>R. Szab&#243</b> et al.: <br><i><a href="http://adsabs.harvard.edu/abs/2011ApJ...739...13S">An Asteroseismic Membership Study of the Red Giants in Three Open Clusters Observed by Kepler: NGC 6791, NGC 6819, and NGC 6811</a></i><br>ApJL, 739, L13, 2011</p></li>
+				<li><p><b>22.</b> D. Stello, D. Huber, T. Kallinger, ..., <b> R. Szab&#243</b> et al.: <br><i><a href="http://adsabs.harvard.edu/abs/2011ApJ...737L..10S">Amplitudes of solar-like oscillations: constraints from red giants in open clusters observed by Kepler</a></i><br>ApJL, 737, L10, 2011</p></li>
+				<li><p><b>21.</b> <b>Gy. M. Szab&#243,  R. Szab&#243, J. M. Benk&#337</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2011ApJ...736L...4S">Asymmetric transit curves as indication of orbital obliquity: clues from the brown dwarf companion in KOI-13</a></i><br>ApJL, 736, L4, 2011</p></li>
+				<li><p><b>20.</b> J. R. Buchler, <b>Z. Koll&#225th</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2011ApJ...731...24B">On the Blazhko Effect in RR Lyrae Stars</a></i><br>ApJL, 731, 24, 2011</p></li>
+				<li><p><b>19. I. B. B&#237r&#243, J. Nuspl</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2011MNRAS.416.1601B">Photometric mode identification methods of nonradial pulsations in eclipsing binaries I. - Dynamic Eclipse Mapping </a></i><br>MNRAS, 416, 1601, 2011</p></li>
+				<li><p><b>18. Z. Koll&#225th, L. Moln&#225r, R. Szab&#243</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2011MNRAS.414.1111K">Period doubling bifurcation and high-order resonances in RR Lyrae hydrodynamical models</a></i><br>MNRAS, 414, 1111, 2011</p></li>
+				<li><p><b>17.</b> M. Breger, L. Balona, P. Lenz, ...,  <b>R. Szab&#243</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2011MNRAS.414.1721B">Regularities in frequency spacings of Delta Scuti stars: The Kepler star KIC 9700322</a></i><br>MNRAS, 414, 1721, 2011</p></li>
+				<li><p><b>16.</b> <b>A. Derekas, L. L. Kiss, T. Borkovits</b> et al. <b>(J. Kov&#225cs, Gy. Mez&#337, A. Mo&#243r, Gy. M. Szab&#243, R. Szab&#243, J. M. Benk&#337, A. E. Simon)</b>: <br><i><a href="http://www.sciencemag.org/content/332/6026/216.abstract">HD 181068: A Red Giant in a Triply-Eclipsing Compact Hierarchical Triple System</a></i><br>Science, 332, 216, 2011</p></li>
+				<li><p><b>15.</b> S. Hekker, S. Basu, D. Stello, ..., <b>R. Szab&#243</b> et al.:<br><i><a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...530A.100H&db_key=AST&link_type=ABSTRACT&high=495cfb0cfb11260">Asteroseismic inferences on red giants in open clusters NGC 6791, NGC 6819 and NGC 6811 using Kepler</a></i><br>A&A, 530, A100, 2011</p></li>
+				<li><p><b>14.</b> <b>R. Szab&#243, L. Szabados,</b> C.-C. Ngeow et al. <b>(A. Derekas, J. Nuspl, G. F&#369r&#233sz, J. M. Benk&#337, L. L.  Kiss, Z. Koll&#225th, J. Kov&#225cs)</b>: <br><i><a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011MNRAS.413.2709S&db_key=AST&link_type=ABSTRACT&high=495cfb0cfb11260">Cepheid investigations using the Kepler space telescope</a></i><br>MNRAS, 413, 2709, 2011<br>download <a href="online_table1.dat">online table 1</a>, <a href="online_table2.dat">online table 2</a>, <a href="online_table3.dat">online table 3</a></p></li>
+				<li><p><b>13.</b> L. A. Balona,  A. Pigulski, P. De Cat, ...,  <b>J. Nuspl</b>, ..., <b>R. Szab&#243</b> et al.:<br><i><a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011MNRAS.413.2403B&db_key=AST&link_type=ABSTRACT&high=495cfb0cfb11260">Kepler observations of variability in B-type stars</a></i><br>MNRAS, 413, 2403, 2011</p></li>
+				<li><p><b>12.</b> K. Kolenberg, S. Bryson, <b>R. Szab&#243</b>,  D. W. Kurtz et al. <b>(J. M. Benk&#337, L. L. Kiss, J. Nuspl)</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2010arXiv1011.5908K">Kepler photometry of the prototypical Blazhko star RR Lyr: An old friend seen in a new light </a></i><br>MNRAS, 411, 878 2011</p></li>
+				<li><p><b>11.</b> G. Catanzaro, V. Ripepi, S. Bernabei, ..., <b>R. Szab&#243 </b> et al.:<br><i><a href="http://adsabs.harvard.edu/doi/10.1111/j.1365-2966.2010.17749.x">Atmospheric parameters and pulsational properties for a sample of delta Sct, gamma Dor, and hybrid Kepler targets</a></i><br>MNRAS, 411, 1167, 2011</p></li>
+				<li><p><b>10.</b> <b>R. Szab&#243, Z. Koll&#225th, L. Moln&#225r,</b> K. Kolenberg et al. <b>(J. M. Benk&#337, J. Nuspl)</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2010MNRAS.409.1244S">Does Kepler unveil the mystery of the Blazhko effect? First detection of period doubling in Kepler Blazhko RR Lyrae stars </a></i><br>MNRAS, 409, 1244, 2010</p></li>
+				<li><p><b>9.</b><b> J. M. Benk&#337</b>, K. Kolenberg, <b>R. Szab&#243</b>, D. W. Kurtz et al. <b>(J. Nuspl, Z. Koll&#225th)</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2010MNRAS.409.1585B">Flavours of variability: 29 RR Lyrae stars observed by the Kepler space telescope</a></i><br>MNRAS, 409, 1585, 2010</p></li>
+				<li><p><b>8.</b> A. Grigahc&egrave;ne, V. Antoci, L. Balona, G. Catanzaro, J. Daszynska-Daszkiewicz, ...,  <b>J. Nuspl</b>, ..., <b>R. Szab&#243</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L.192G">Hybrid gamma Doradus - delta Scuti pulsators: New insights into the physics of the oscillations from Kepler observations</a></i><br>ApJL, 713, L192, 2010</p></li>
+				<li><p><b>7.</b> D. Stello, S. Basu,  H. Bruntt, B. Mosser, I. R. Stevens, T. M. Brown, ..., <b>R. Szab&#243</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L.182S">Detection of solar-like oscillations from Kepler photometry of the open cluster NGC 6819</a></i><br>ApJL, 713, L182, 2010</p></li>
+				<li><p><b>6.</b> K. Kolenberg, <b>R. Szab&#243</b>, D. W. Kurtz, R. L. Gilliland, J. Christensen-Dalsgaard et al. <b>(J. M. Benk&#337, A. Derekas, Z. Koll&#225th, J. Nuspl)</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L.198K">First KEPLER Results on RR Lyrae Stars</a></i><br>ApJL, 713, L198, 2010</p></li>
+				<li><p><b>5.</b> T. R. Bedding, D. Huber, D. Stello, ... <b>A. Derekas</b>, ..., <b>L. L. Kiss,</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L.176B">Solar-like oscillations in low-luminosity red giants: first results from Kepler</a></i><br>ApJL, 713, L176, 2010</p></li>
+				<li><p><b>4.</b> S. Hekker, J. Debosscher, D. Huber, ... <b>A. Derekas </b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L.187H">Discovery of a red giant with solar-like oscillations in an eclipsing binary system from Kepler space-based photometry</a></i><br>ApJL, 713, L187, 2010</p></li>
+				<li><p><b>3.</b> W. J. Chaplin, T. Appourchaux, Y. Elsworth, ... <b>A. Derekas</b>, <b>L. L. Kiss</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L.169C">The asteroseismic potential of Kepler: first results for solar-type stars</a></i><br>ApJL, 713, L169, 2010</p></li>
+				<li><p><b>2.</b> J. Blomme, J. Debosscher, J. De Ridder, ... <b>A. Derekas</b>:<br><i><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L.204B">Automated classification of variable stars in the asteroseismology program of the Kepler space mission</a></i><br>ApJL, 713, L204, 2010</p></li>
+				<li><p><b>1.</b> R. L. Gilliland, T. M. Brown, J. Christensen-Dalsgaard, H. Kjeldsen, C. Aerts, ...,  <b>L. L. Kiss</b>, ..., <b>R. Szab&#243</b> et al.:<br><i><a href="http://adsabs.harvard.edu/abs/2010PASP..122..131G">Kepler Asteroseismology Program: Introduction and First Results</a></i><br>PASP, 122, 131, 2010</p></li>
+			</ol>
+		</div>
+	</div>
+
+	<div id="footer" class="row">
+		<div class="col c12 aligncenter">
+			<h3>&copy; 2016 R. Szabó, O. Hanyecz</h3>
+			<p><a href="http://andreasviklund.com/templates/origo/">Template design</a> by <a href="http://andreasviklund.com/">Andreas Viklund</a><br />
+		</div>
+	</div>
+ </div>
+</body>
+</html>
